@@ -1,0 +1,8 @@
+gunicorn
+Flask
+Flask-Ask
+Jinja2
+xmltodict
+requests
+waitress
+fuzzywuzzy
